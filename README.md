@@ -1,2 +1,2 @@
-# Kaggle tatantic survival prediction competition by using SAS
+# Kaggle tatantic survival analysis by using SAS
 https://www.kaggle.com/c/titanic/overview
